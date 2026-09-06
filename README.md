@@ -42,11 +42,10 @@ const saiHansitha = {
 
 ## 🚀 Featured Projects
 
+
 ### 🩺 Appointment Booking System for a Doctor
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24A31A05EJ&repo=Appointment-booking-system-for-a-doctor-&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-</div>
+
 
 A web-based application for booking and managing doctor appointments efficiently.
 
@@ -63,9 +62,7 @@ A web-based application for booking and managing doctor appointments efficiently
 
 ### 🗳️ Master the Indian Election Process
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=24A31A05EJ&repo=Master-the-Indian-Election-Process&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-</div>
+
 
 An interactive platform designed to help users understand the Indian election process and democratic system.
 
